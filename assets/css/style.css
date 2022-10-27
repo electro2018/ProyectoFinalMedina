@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+     display:flex;
+    margin: 20px;
+    padding: 5px;
+    border: 120px;
+}
+
+h2{
+    
+    display:flex;
+    margin: 20px;
+    padding: 20px;
+    border: 120px;
+}
+
+
+h3{
+    
+    display:flex;
+    margin: 20px;
+    padding: 20px;
+    border: 120px;
+}
+
+
+.part{
+    
+    display:flex;
+    margin: 20px;
+    padding: 20px;
+    border: 120px;
+}
+
+
+.datum{
+    
+    display:flex;
+    margin: 20px;
+    padding: 5px;
+    border: 120px;
+}
+
+p{
+    
+    display:flex;
+    margin: 10px;
+    padding: 15px;
+    border: 20px;
+}
+
+.comm{
+    
+    display:flex;
+    margin: 20px;
+    padding: 20px;
+    border: 120px;
+}
